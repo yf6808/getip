@@ -5,8 +5,8 @@
 通过脚本将ip库里面的内容导入到内存中，通过ngx_lua进行访问提供高性能查询
 
 #请求案例
-导入ip库到内存
-@example : http://www.ip.com/***
+导入ip库到内存 \n
+@example : http://www.ip.com/*** \n
 查询ip所在区域
 @example : http://www.ip.com/getip?ip=114.114.114.114
 批量查询ip所在区域(json格式返回)
